@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/1663/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web
+END
+log4net.config
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/log4net.config
+END
+DotNetSoft.Web.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/DotNetSoft.Web.csproj.user
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/1663/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Web.config
+END
+Login.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Login.aspx
+END
+Login.aspx.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Login.aspx.designer.cs
+END
+Login.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Login.aspx.cs
+END
+Login_Admin.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Login_Admin.aspx
+END
+Global.asax
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Global.asax
+END
+Login_Admin.aspx.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Login_Admin.aspx.designer.cs
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/favicon.ico
+END
+Register.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Register.aspx
+END
+Site.Master
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Site.Master
+END
+Default.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Default.aspx
+END
+Login_Admin.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Login_Admin.aspx.cs
+END
+Global.asax.cs
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Global.asax.cs
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Web.Release.config
+END
+Default.aspx.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Default.aspx.designer.cs
+END
+Site.Master.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Site.Master.designer.cs
+END
+Register.aspx.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Register.aspx.designer.cs
+END
+Register.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Register.aspx.cs
+END
+Site.Master.cs
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Site.Master.cs
+END
+Default.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Default.aspx.cs
+END
+DotNetSoft.Web.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/1663/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/DotNetSoft.Web.csproj
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Web.Debug.config
+END
+Web.sitemap
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Web/Web.sitemap
+END

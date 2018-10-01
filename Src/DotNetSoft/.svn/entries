@@ -1,0 +1,138 @@
+10
+
+dir
+2027
+http://115.28.5.84:8099/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft
+http://115.28.5.84:8099/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6
+
+
+
+2017-04-08T13:41:56.328870Z
+1663
+283335746
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eeecd8e6-aa2a-e146-8018-c4464320432e
+
+DotNetSoft.DALFactory
+dir
+
+DotNetSoft.DAL.DALXmlProvider
+dir
+
+DotNetSoft.sln
+file
+
+
+
+
+2018-10-01T02:03:11.437500Z
+c61eb52b4ed8f2c07394a8d828e80fd9
+2017-04-08T13:41:56.328870Z
+1663
+283335746
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17524
+
+DotNetSoft.Model
+dir
+
+DotNetSoft.suo
+file
+
+
+
+
+2018-10-01T02:03:11.515625Z
+dab83845151fb819f5c6bf30b0448879
+2015-11-30T09:17:17.920988Z
+821
+283335746
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2296832
+
+DotNetSoft.IDAL
+dir
+
+DotNetSoft.DAL.MsSqlProvider
+dir
+
+DotNetSoft.BLL
+dir
+
+CustomThread
+dir
+
+CacheDependencyHelper
+dir
+
+ConsoleApp
+dir
+
+DotNetSoft.WebHelper
+dir
+
+DotNetSoft.Web
+dir
+
+CustomProviders
+dir
+
+DBUtility
+dir
+
+CustomExceptions
+dir
+

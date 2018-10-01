@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model
+END
+ContentType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model/ContentType.cs
+END
+Category.cs
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model/Category.cs
+END
+ProvinceCity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model/ProvinceCity.cs
+END
+Product.cs
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model/Product.cs
+END
+DotNetSoft.Model.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model/DotNetSoft.Model.csproj
+END
+MenuItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model/MenuItem.cs
+END
+UserAddress.cs
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model/UserAddress.cs
+END
+CartItemInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model/CartItemInfo.cs
+END
+OrderInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model/OrderInfo.cs
+END
+HandlerUserProfile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model/HandlerUserProfile.cs
+END
+ContentDetail.cs
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model/ContentDetail.cs
+END
+DotNetSoft.Model.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model/DotNetSoft.Model.csproj.user
+END
+WebSitemap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model/WebSitemap.cs
+END
+UserCustomAttr.cs
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model/UserCustomAttr.cs
+END
+SystemProfile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model/SystemProfile.cs
+END
+MenuNav.cs
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model/MenuNav.cs
+END
+SearchKeyword.cs
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/821/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E5%95%86%E5%9F%8E/trunk/DotNetSoft/DotNetSoft.Model/SearchKeyword.cs
+END

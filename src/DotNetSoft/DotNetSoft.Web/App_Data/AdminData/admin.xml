@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+  <Data ID="Tabs">
+    <Add Href="~/Admin/Default.aspx" Url="/Admin/Default.aspx" Title="我的桌面" CreateDate="2014-01-03T00:06:57.103535+08:00" UpdateDate="2015-04-11T08:49:47.5885053+08:00" />
+    <Add Href="~/Admin/AboutSite/ListContentType.aspx" Url="/Admin/AboutSite/ListContentType.aspx" Title="站点内容类型" CreateDate="2015-04-11T08:49:58.6095137+08:00" UpdateDate="2015-04-11T08:49:58.6095137+08:00" />
+  </Data>
+  <Data ID="Layout">
+    <Add ID="West" Status="0" />
+    <Add ID="East" Status="0" />
+  </Data>
+</Datas>
